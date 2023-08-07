@@ -21,7 +21,12 @@ const data = {
       quantity: 21,
       imageClass: 'fas fa-apple-whole fa-3x',
     },
-    // add another product here for hot peppers
+    {
+      id: 40,
+      name: 'Avocados',
+      description: 'Bag of 5 ripe avocados',
+      quantity: 7,
+    }
   ],
 };
 
